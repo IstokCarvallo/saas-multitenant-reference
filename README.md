@@ -2,7 +2,7 @@
 
 Arquitectura de referencia para aplicaciones SaaS multi-tenant con .NET y PostgreSQL, enfocada en aislamiento de datos, seguridad y escalabilidad.
 
-Este repositorio documenta una estrategia reusable para diseñar aplicaciones multi-tenant sin acoplar la solución a un producto o dominio específico. El objetivo es mostrar decisiones arquitectónicas aplicables a sistemas reales, con especial énfasis en identificación de tenant, aislamiento de datos, autorización, persistencia y evolución operativa.
+Este repositorio documenta una estrategia reutilizable para diseñar aplicaciones multi-tenant sin acoplar la solución a un producto o dominio específico. El objetivo es mostrar decisiones arquitectónicas aplicables a sistemas reales, con especial énfasis en identificación de tenant, aislamiento de datos, autorización, persistencia y evolución operativa.
 
 ## Objetivos
 
